@@ -1,4 +1,4 @@
 runner_image: golang:1.13.7
 commands:
-  - go test
+  - go test ./test
   - echo "tests are done"
