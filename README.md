@@ -1,7 +1,5 @@
 # Basic CI
 
-This is a refactored version of github.com/sidletsky/tfilecaps/
-
 ## Usage
 ```bash
 kek -repo=<owner/repo> -token=<your token here>
